@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "CITRUS",
+  "base_artist": "Da-iCE",
+  "createdAt": "2026-01-11T17:04:23.443284Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Citrus",
+      "artist": "The Hold Steady",
+      "has_synced": true,
+      "path": "select/01_Citrus_The_Hold_Steady.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Citrus",
+      "artist": "Ides of Space",
+      "has_synced": false,
+      "path": "select/02_Citrus_Ides_of_Space.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Citrus Light",
+      "artist": "Sin Fang feat. Sóley & Örvar Smárason",
+      "has_synced": false,
+      "path": "select/03_Citrus_Light_Sin_Fang_feat._Sóley_&_Örvar_Smárason.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Citrus Light",
+      "artist": "Sin Fang + Sóley + Örvar Smárason",
+      "has_synced": false,
+      "path": "select/04_Citrus_Light_Sin_Fang_+_Sóley_+_Örvar_Smárason.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Citrus",
+      "artist": "Holly Henry",
+      "has_synced": true,
+      "path": "select/05_Citrus_Holly_Henry.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "CITRUS",
+      "artist": "Da-iCE",
+      "has_synced": true,
+      "path": "select/06_CITRUS_Da-iCE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "CITRUS",
+      "artist": "Orangestar feat. IA & ONE",
+      "has_synced": true,
+      "path": "select/07_CITRUS_Orangestar_feat._IA_&_ONE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "CITRUS (feat. IA & ONE)",
+      "artist": "Orangestar, IA, ONE",
+      "has_synced": true,
+      "path": "select/08_CITRUS_(feat._IA_&_ONE)_Orangestar,_IA,_ONE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "オレンジ －citrus mix－",
+      "artist": "逢坂大河・櫛枝実乃梨・川嶋亜美",
+      "has_synced": false,
+      "path": "select/09_オレンジ_-citrus_mix-_逢坂大河・櫛枝実乃梨・川嶋亜美.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "オレンジ －citrus mix－",
+      "artist": "逢坂大河(釘宮理恵)・櫛枝実乃梨(堀江由衣)・川嶋亜美(喜多村英梨)",
+      "has_synced": false,
+      "path": "select/10_オレンジ_-citrus_mix-_逢坂大河(釘宮理恵)・櫛枝実乃梨(堀江由衣)・川嶋亜美(喜多村英梨).txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Saved By the Buoyancy of Citrus",
+      "artist": "Mitch Hedberg",
+      "has_synced": false,
+      "path": "select/11_Saved_By_the_Buoyancy_of_Citrus_Mitch_Hedberg.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "In Citrus Heights",
+      "artist": "Tera Melos",
+      "has_synced": false,
+      "path": "select/12_In_Citrus_Heights_Tera_Melos.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Citrus Love",
+      "artist": "Bao The Whale",
+      "has_synced": true,
+      "path": "select/13_Citrus_Love_Bao_The_Whale.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CITRUS",
+      "artist": "Da-iCE",
+      "has_synced": false,
+      "path": "select/pl_01_CITRUS_Da-iCE.txt"
+    }
+  ]
+}
