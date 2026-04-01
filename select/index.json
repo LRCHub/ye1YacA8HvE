@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "CITRUS",
   "base_artist": "Da-iCE",
-  "createdAt": "2026-03-27T06:38:53.257980Z",
+  "createdAt": "2026-04-01T07:46:32.397039Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -123,7 +123,7 @@
       "artist": "Da-iCE",
       "has_synced": true,
       "path": "select/localdb_01_CITRUS_Da-iCE.lrc",
-      "repo_name": "TI43_Sy8QAM"
+      "repo_name": "ye1YacA8HvE"
     },
     {
       "id": "localdb_2",
@@ -132,7 +132,7 @@
       "artist": "Da-iCE",
       "has_synced": true,
       "path": "select/localdb_02_CITRUS_Da-iCE.lrc",
-      "repo_name": "ye1YacA8HvE"
+      "repo_name": "TI43_Sy8QAM"
     }
   ]
 }
